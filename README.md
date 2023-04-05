@@ -1,10 +1,16 @@
 # spotify-network
 
+![THE MASS](/.github/img/the%20mass.png)
+
 _This probably break's Spotify's ToS or something. It does not use an official API application and uses your **personal** account to do API requests. **USE AT YOUR OWN RISK**._
 
 ---
 
 `spotify-network` is an OSINT tool which gets a Spotify account's following, then their following, then their following, etc (to as many degrees of separation as you want) to create a pretty graph that you can show your friends.
+
+**See the results here: https://twitter.com/King_Millez/status/1643435598852820993**
+
+![2D Mass](/.github/img/image-4.png)
 
 Included is a script which imports the network data into Blender so you can create even prettier 3D visualisations of your stalking endeavours.
 
